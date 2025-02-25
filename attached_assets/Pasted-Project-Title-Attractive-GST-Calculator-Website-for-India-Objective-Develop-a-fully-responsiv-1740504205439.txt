@@ -1,0 +1,84 @@
+Project Title:
+Attractive GST Calculator Website for India
+
+Objective:
+Develop a fully responsive, user-friendly website that allows users to perform GST calculations easily. The product should support both “Add GST” and “Remove GST” functions, include predefined & custom GST rates, instant auto calculation with CGST & SGST breakdown, a mini invoice generator with PDF export, dark mode & custom themes, share/export reports, and a quick GST guide for beginners. The website must include a burger (hamburger) button in the navbar for all viewport dimensions. Use the primary color #31473A as the base and #EDF4F2 as the secondary color throughout the design.
+
+Design & UI Requirements:
+
+Color Palette:
+Base Color: #31473A
+Secondary Color: #EDF4F2
+Modern, clean, and attractive design with smooth animations and intuitive buttons.
+Responsive design across desktop, tablet, and mobile.
+Include a burger button in the navbar for navigation on smaller screens.
+Website Structure & Features:
+
+Header (Navbar):
+
+Logo & Brand Name: Positioned on the left.
+Navigation Links:
+Home
+Calculator
+Invoice Generator
+GST Guide
+FAQ
+Contact/Support
+Burger Menu:
+A hamburger icon that expands the navigation menu on all dimensions.
+Theme Toggle:
+A dark/light mode switch integrated in the navbar.
+Hero Section:
+
+Engaging headline (e.g., “Simple GST Calculator for India”) and a brief subheadline.
+A prominent Call-to-Action (CTA) button (e.g., “Start Calculating”).
+Background image or animation reflecting modern simplicity.
+Main Content Area:
+
+A. GST Calculator Section:
+
+Tab Navigation:
+Add GST Tab:
+Input field for Base Price.
+Dropdown for selecting predefined GST rates (5%, 12%, 18%, 28%) and an option for custom input.
+Instant auto-calculation displaying the final price along with a detailed CGST & SGST breakdown.
+Remove GST Tab:
+Input field for Final Price.
+Similar dropdown for GST rate selection.
+Instant auto-calculation that displays the base price and tax breakdown.
+B. Mini Invoice Generator:
+
+Multi-item entry with fields for item name, quantity, and price.
+Auto-calculation of totals including GST.
+PDF export functionality to generate a printable invoice (with optional logo insertion).
+C. Share & Export Reports:
+
+Options to export calculation history or invoices as CSV or PDF.
+Social media share buttons (e.g., WhatsApp, Email, etc.).
+D. Quick GST Guide for Beginners:
+
+Concise educational content explaining GST, including definitions for CGST, SGST, and IGST.
+Visual GST slab chart and easy-to-understand content.
+E. FAQ Section:
+
+An expandable list of frequently asked questions covering topics like “What is GST?”, “How is GST calculated?”, and more.
+Footer:
+
+Quick Links: About Us, Privacy Policy, Terms of Service, FAQ, Contact.
+Social Media Icons: Links to Facebook, Twitter, LinkedIn, etc.
+Newsletter Subscription: Input field for email sign-up (optional).
+Legal Information: Copyright notice and legal disclaimers.
+Functionality & Technical Requirements:
+
+Instant auto-calculation as users enter data.
+Smooth transitions and animations for theme toggle (dark/light mode).
+Fully responsive design with a burger menu for mobile navigation.
+Use modern UI components (buttons, icons, forms) and attractive fonts.
+Write clean, maintainable, modular code with clear documentation.
+Ensure performance optimization and SEO best practices.
+Optional: Use a technology stack such as React.js for the frontend, with Node.js or a similar backend if history/invoice storage is needed.
+Deliverables:
+
+A complete, production-ready website with the above features and design.
+Source code with proper documentation.
+A style guide reflecting the chosen color palette and design system.
